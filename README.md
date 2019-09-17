@@ -86,8 +86,8 @@ Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | h
 GNU General Public License v3.0
 
 ### Donate
-You can thank me by a voluntary donation.
-ko_fi: ko-fi.com/nvjob_dev
-liberapay: liberapay.com/nvjob
-issuehunt: issuehunt.io/r/nvjob
+You can thank me by a voluntary donation. <br>
+ko_fi: ko-fi.com/nvjob_dev <br>
+liberapay: liberapay.com/nvjob <br>
+issuehunt: issuehunt.io/r/nvjob <br>
 paypal: https://www.paypal.me/nvjob
