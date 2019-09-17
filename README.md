@@ -34,7 +34,7 @@ I0.4 - Vertical piston, sensor, lower position. <br>
 I0.5 - Vertical piston, sensor, upper position. <br>
 I0.6 - Horizontal piston, sensor, position retracted. <br>
 I0.7 - Horizontal piston, sensor, position extended. <br>
-I1.0 - Not involved. <br> <br>
+I1.0 - Not involved. <br>
 I1.1 - Valve button. <br>
 I1.2 - Accident, stop. <br>
 I1.3 - Change in operating time of the screw. Min time. <br>
