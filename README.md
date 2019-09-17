@@ -1,4 +1,4 @@
-# Custom program for WEIMA TH Standard Series (TH714). B
+# Custom program for WEIMA TH Standard Series (TH714) (Briquette Press). B
 
 ### Attention!!!
 
@@ -76,3 +76,18 @@ Q1.1 - Light Bulb Start
 11. Control valves of the hydraulic collet. Position “a” - collet is closed, position “b” - collet is open. Switch “8” should be in position “b” “Manual”.
 
 In automatic mode, protection against stopping the press when clogging material in a vertical and horizontal piston is provided. When clogging, the press is automatically cleaned; after auto-cleaning, the press switches to the normal mode of operation in automatic mode. Auto-cleaning will be performed until the press is cleaned for normal operation. During self-cleaning, the light on the “4-5” switch flashes.
+
+-------------------------------------------------------------------
+
+### Authors
+Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+
+### License
+GNU General Public License v3.0
+
+### Donate
+You can thank me by a voluntary donation.
+ko_fi: ko-fi.com/nvjob_dev
+liberapay: liberapay.com/nvjob
+issuehunt: issuehunt.io/r/nvjob
+paypal: https://www.paypal.me/nvjob
