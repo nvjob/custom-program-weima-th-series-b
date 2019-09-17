@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=vYgpMgc0Lm4
 
 Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-a
 
-![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-a/blob/master/Images/Briquette%20Press%20(3).jpg)
+![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-b/blob/master/Images/Briquette%20Press.jpg)
 
 -------------------------------------------------------------------
 
@@ -56,3 +56,23 @@ Q1.0 - Collet Piston. <br>
 Q1.1 - Light Bulb Start
 
 #### See comments in the program for more details.
+
+-------------------------------------------------------------------
+
+#### Instruction manual
+
+![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-b/blob/master/Images/Briquette%20Press%201.jpg)
+
+1. Hour meter, counts the hours worked in the process in automatic mode. <br>
+2. The start of the hydroelectric station. If there are no malfunctions (the “7” lamp should be lit), the engine of the hydraulic power station starts. <br>
+3. Stop the hydroelectric station. If automatic mode has been started, then it also ends. <br>
+4. Start auto mode. The press starts in automatic mode, the press is initially cleaned (the light on the “4-5” switch blinks), after successful cleaning, the press goes into normal operation (the light on the “4-5” switch is on). If the engine of the hydraulic power station has not been started, the automatic mode will not start. Switch “8” should be in position “a” “Auto”. <br>
+5. Stop auto mode. the press is automatically cleaned (the lamp on the “4-5” switch blinks), after successful cleaning, the automatic mode ends (the lamp on the “4-5” switch goes out). If you press the button when the press is not started in automatic mode, then one auto-cleaning cycle will occur (the light on the “4-5” switch blinks). <br>
+6. Switching the time of feeding the material into the chamber with a screw. The shorter the time, the smaller the portion and the briquette itself at the exit. Positions: a - 1.5 seconds, b - 2 seconds, c - 2.5 seconds. <br>
+7. Work status indicator. If there are no malfunctions (emergency sensors are connected and not triggered, all the machines are on, the emergency stop button is not pressed), then the lamp should light up green. <br>
+8. Switching between automatic and manual mode. Position “a” - automatic mode, position “b” - manual mode. Manual mode blocks the operation of the press in automatic mode and allows you to manually control the valves of the hydraulic station. If you put the press into manual mode during operation in automatic mode, then the automatic mode ends without auto-cleaning. <br>
+9. Manual control of the valves of the hydraulic station of the vertical piston. Position “a” - the piston drops, position “b” - the piston rises. Switch “8” should be in position “b” “Manual”. <br>
+10. Managing the valves of a horizontal piston hydraulic station in manual mode. Position “a” - the piston retracts, position “b” - the piston extends. Switch “8” should be in position “b” “Manual”. <br>
+11. Control valves of the hydraulic collet. Position “a” - collet is closed, position “b” - collet is open. Switch “8” should be in position “b” “Manual”.
+
+In automatic mode, protection against stopping the press when clogging material in a vertical and horizontal piston is provided. When clogging, the press is automatically cleaned; after auto-cleaning, the press switches to the normal mode of operation in automatic mode. Auto-cleaning will be performed until the press is cleaned for normal operation. During self-cleaning, the light on the “4-5” switch flashes.
