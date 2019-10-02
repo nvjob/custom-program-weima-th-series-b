@@ -1,0 +1,63 @@
+Custom program for WEIMA TH Standard Series (TH714). B
+
+====================================================
+
+Attention!!!
+This is not an official program. For the program to function, all devices must be connected according to the inputs and outputs installed in the program.
+You must understand what you are doing.
+You must have knowledge of electrical engineering and technological processes.
+The program was written to restore the dead briquette press.
+
+====================================================
+
+Features of the work.
+Automatic start, no preliminary preparation required.
+When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.
+No encoder is required at the press outlet.
+
+https://www.youtube.com/watch?v=vYgpMgc0Lm4
+
+Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-a
+
+====================================================
+
+INPUTS:
+I0.0 - Power. I0.1 - Start the program in automatic mode.
+I0.2 - Stop the program in automatic mode.
+I0.3 - Manual mode.
+I0.4 - Vertical piston, sensor, lower position.
+I0.5 - Vertical piston, sensor, upper position.
+I0.6 - Horizontal piston, sensor, position retracted.
+I0.7 - Horizontal piston, sensor, position extended.
+I1.0 - Not involved.
+I1.1 - Valve button.
+I1.2 - Accident, stop.
+I1.3 - Change in operating time of the screw. Min time.
+I1.4 - Change in the operating time of the screw. Max. time.
+I1.5 - Not involved.
+
+====================================================
+
+OUTPUTS:
+Q0.0 - The engine of the hydraulic power station (star-delta).
+Q0.1 - Hydroelectric power station engine (star-delta).
+Q0.2 - Fan.
+Q0.3 - Auger.
+Q0.4 - Vertical piston, valve, up position (pushes down).
+Q0.5 - Vertical piston, valve, lower position (pushes up).
+Q0.6 - Horizontal piston, valve, retracts the piston.
+Q0.7 - Horizontal piston, valve, extends the piston.
+Q1.0 - Collet Piston.
+Q1.1 - Light Bulb Start
+
+====================================================
+
+See comments in the program for more details.
+
+
+
+
+
+
+
+
