@@ -10,6 +10,8 @@ The program was written to restore the dead briquette press.
 
 -------------------------------------------------------------------
 
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Briquette%20Press.jpg)
+
 ### Features of the work.
 
 Automatic start, no preliminary preparation required.<br>
@@ -20,9 +22,9 @@ https://www.youtube.com/watch?v=vYgpMgc0Lm4
 
 Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-a
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Briquette%20Press.jpg)
-
 -------------------------------------------------------------------
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Scheme.png)
 
 #### INPUTS:
 
@@ -61,7 +63,7 @@ Q1.1 - Light Bulb Start
 
 #### Instruction manual
 
-![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-b/blob/master/Images/Briquette%20Press%201.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Scheme%202.jpg)
 
 1. Hour meter, counts the hours worked in the process in automatic mode. <br>
 2. The start of the hydroelectric station. If there are no malfunctions (the “7” lamp should be lit), the engine of the hydraulic power station starts. <br>
