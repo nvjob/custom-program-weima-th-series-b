@@ -80,10 +80,10 @@ In automatic mode, protection against stopping the press when clogging material 
 -------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-GNU General Public License v3.0
+GNU General Public License v3.0 - https://github.com/nvjob/custom-program-weima-th-series-b/blob/master/LICENSE
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.pro/donations.html
+Help for this project - https://nvjob.github.io/donate
