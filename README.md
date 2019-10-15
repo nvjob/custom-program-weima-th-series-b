@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=vYgpMgc0Lm4
 
 Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-a
 
+### Prerequisites
+For TH714 and compatible <br>
+Siemens S7-200
+
 -------------------------------------------------------------------
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Scheme.png)
