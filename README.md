@@ -89,7 +89,7 @@ In automatic mode, protection against stopping the press when clogging material 
 Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-GNU General Public License v3.0 - https://github.com/nvjob/custom-program-weima-th-series-b/blob/master/LICENSE
+GNU General Public License v3.0 - https://nvjob.github.io/gnu-license
 
 ### Donate
 Help for this project - https://nvjob.github.io/donate
