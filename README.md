@@ -1,4 +1,4 @@
-# Custom program for WEIMA TH Standard Series (TH714) (Briquette Press). B
+# Custom program for WEIMA TH Standard Series (TH714) (Briquette Press). B 4.1
 
 ### Attention!!!
 
