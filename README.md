@@ -10,8 +10,6 @@ You must understand what you are doing.<br>
 You must have knowledge of electrical engineering and technological processes.<br>
 The program was written to restore the dead briquette press.
 
--------------------------------------------------------------------
-
 ### Features of the work.
 Automatic start, no preliminary preparation required.<br>
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.<br>
@@ -20,6 +18,8 @@ No encoder is required at the press outlet.
 [youtube.com/watch?v=vYgpMgc0Lm4](https://www.youtube.com/watch?v=vYgpMgc0Lm4)
 
 **Program for another Weima briquette press** - https://github.com/nvjob/custom-program-weima-th-series-a
+
+-------------------------------------------------------------------
 
 ### Prerequisites
 For TH714 and compatible <br>
