@@ -17,7 +17,7 @@ No encoder is required at the press outlet.
 
 [youtube.com/watch?v=vYgpMgc0Lm4](https://www.youtube.com/watch?v=vYgpMgc0Lm4)
 
-**Program for another Weima briquette press** - https://github.com/nvjob/custom-program-weima-th-series-a
+**Program for another Weima briquette press** - [github.com/nvjob/custom-program-weima-th-series-a](https://github.com/nvjob/custom-program-weima-th-series-a)
 
 -------------------------------------------------------------------
 
