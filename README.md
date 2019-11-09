@@ -1,8 +1,9 @@
 # Custom program for WEIMA TH Standard Series (TH714) (Briquette Press). B 4.1
 #### [nvjob.github.io/sources/custom-program-weima-th-series-b](https://nvjob.github.io/sources/custom-program-weima-th-series-b)
 
-### Attention!!!
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Briquette%20Press.jpg)
 
+### Attention!!!
 This is not an official program.
 For the program to function, all devices must be connected according to the inputs and outputs installed in the program.<br>
 You must understand what you are doing.<br>
@@ -11,17 +12,14 @@ The program was written to restore the dead briquette press.
 
 -------------------------------------------------------------------
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Briquette%20Press.jpg)
-
 ### Features of the work.
-
 Automatic start, no preliminary preparation required.<br>
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.<br>
 No encoder is required at the press outlet.
 
-https://www.youtube.com/watch?v=vYgpMgc0Lm4
+[youtube.com/watch?v=vYgpMgc0Lm4](https://www.youtube.com/watch?v=vYgpMgc0Lm4)
 
-Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-a
+**Program for another Weima briquette press** - https://github.com/nvjob/custom-program-weima-th-series-a
 
 ### Prerequisites
 For TH714 and compatible <br>
@@ -32,7 +30,6 @@ Siemens S7-200
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Scheme.png)
 
 #### INPUTS:
-
 I0.0 - Power.
 I0.1 - Start the program in automatic mode. <br>
 I0.2 - Stop the program in automatic mode. <br>
@@ -48,9 +45,7 @@ I1.3 - Change in operating time of the screw. Min time. <br>
 I1.4 - Change in the operating time of the screw. Max. time.  <br>
 I1.5 - Not involved.
 
-
 #### OUTPUTS:
-
 Q0.0 - The engine of the hydraulic power station (star-delta). <br>
 Q0.1 - Hydroelectric power station engine (star-delta). <br>
 Q0.2 - Fan. <br>
