@@ -85,11 +85,10 @@ In automatic mode, protection against stopping the press when clogging material 
 
 -------------------------------------------------------------------
 
-### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
-### License
-GNU General Public License v3.0 - https://nvjob.github.io/gnu-license
+**License:** GNU GPL v3.0. Clarification of licenses - [nvjob.github.io/gnu-license](https://nvjob.github.io/gnu-license)
 
-### Donate
-Help for this project - https://nvjob.github.io/donate
+**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
+
+**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
