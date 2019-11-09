@@ -25,7 +25,7 @@ No encoder is required at the press outlet.
 For TH714 and compatible <br>
 Siemens S7-200
 
--------------------------------------------------------------------
+### Information
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Scheme.png)
 
