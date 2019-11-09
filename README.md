@@ -61,7 +61,7 @@ Q1.1 - Light Bulb Start
 
 -------------------------------------------------------------------
 
-#### Instruction manual
+### Instruction manual
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20b/40/pic/Scheme%202.jpg)
 
