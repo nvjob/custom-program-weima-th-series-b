@@ -86,5 +86,3 @@ In automatic mode, protection against stopping the press when clogging material 
 **License:** GNU GPL v3.0. Clarification of licenses - [nvjob.github.io/gnu-license](https://nvjob.github.io/gnu-license)
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
-
-**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
